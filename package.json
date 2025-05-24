@@ -1,12 +1,12 @@
 {
-  "name": "goit-js-hw-12",
+  "name": "goit-js-hw-122",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://timoha-osobennyy.github.io/goit-js-hw-12",
+  "homepage": "https://timoha-osobennyy.github.io/goit-js-hw-122",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-js-hw-12/",
+    "build": "vite build --base=/goit-js-hw-122/",
     "preview": "vite preview",
     "deploy": "vite build --base=/goit-js-hw-12/ && gh-pages -d dist"
   },
